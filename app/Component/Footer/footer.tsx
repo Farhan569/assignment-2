@@ -1,4 +1,3 @@
-import { Children } from 'react';
 import Style from './footer.module.css';
 
 const Footer = () => {
